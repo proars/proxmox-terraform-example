@@ -1,5 +1,5 @@
 ##########################################
-#       Terraform Proxmox Tutorial       #
+#       Terraform Proxmox                #
 #    Deploy LXC container in Proxmox     #
 ##########################################
 
